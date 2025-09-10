@@ -1,6 +1,6 @@
 # Spam Detection
 
-## ▶️ Run the Notebook in Google Colab
+## Run the Notebook in Google Colab
 
 Click below to open the notebook:
 
